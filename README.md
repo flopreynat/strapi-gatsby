@@ -9,7 +9,7 @@ a few useful commandlines and urls:
 - yarn develop
 - http://localhost:1337/
 - http://localhost:1337/admin/
-- http://localhost:1337/restautants
+- http://localhost:1337/restaurants
 
 ## Gatsby
 - cd gatsby/website
