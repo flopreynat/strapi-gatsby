@@ -1,17 +1,17 @@
 # Strapi and Gatsby
 
-Simply having fun with strapi and Gatsby
+Simply having fun with Strapi and Gatsby.
 
 a few useful commandlines and urls:
 
-## Strapi
+### Strapi
 - cd strapi/my-project
 - yarn develop
 - http://localhost:1337/
 - http://localhost:1337/admin/
 - http://localhost:1337/restaurants
 
-## Gatsby
+### Gatsby
 - cd gatsby/website
 - gatsby develop
 - http://localhost:8000/
